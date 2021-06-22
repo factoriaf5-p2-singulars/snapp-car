@@ -1,0 +1,8 @@
+{
+  "/query": {
+      "target": "https://api.snappcar.nl/v2/search",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin":true
+  }
+}
